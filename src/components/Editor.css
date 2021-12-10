@@ -6,7 +6,32 @@
 
 .left-div{
     padding: 20px;
+}
 
+.right-div{
+    padding: 20px;
+}
+
+#input-textarea
+{
+    width: 31vw;
+  height: 540px;
+  background: #f1f1f1;
+  border-radius: 10px;
+  outline: none;
+  padding: 10px;
+  font-size: 18px;
+}
+
+#output-textarea
+{
+    width: 31vw;
+  height: 540px;
+  background: #f1f1f1;
+  border-radius: 10px;
+  outline: none;
+  padding: 10px;
+  font-size: 18px;
 }
 
 .output-window{
